@@ -1,3 +1,3 @@
 # ryleighjl.github.io
 
-ryleighjl.github.io/Washtenaw_DEV
+https://ryleighjl.github.io/Washtenaw_DEV
